@@ -4,7 +4,7 @@ Getting started.
 
 http://pulsesensor.com/pages/code-and-guide
 
-First see 
+#### Install the Arduino part of the code ( later the Processing part - described below )
 
 https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino
 
@@ -29,3 +29,18 @@ HBS Connections to Arduino
         Green  +5V
 
         Yellow A0 
+
+####  Install Processing 
+
+https://processing.org/download/
+
+Overall page.
+
+http://pulsesensor.com/pages/processing-visualization
+
+Code is in github 
+
+https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer
+
+<img width="982" src="https://cloud.githubusercontent.com/assets/14288989/20166052/22f71b4e-a738-11e6-96d9-c83a60268cdb.png">
+
